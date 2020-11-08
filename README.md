@@ -5,6 +5,7 @@
 - Open Pong.exe
 
 ## Usage
+To start game press **SPACE**
 ### General
 - Pause - **SPACE**
 - Restart - **R**
