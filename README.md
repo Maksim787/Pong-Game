@@ -8,6 +8,7 @@
 ### General
 - Pause - **SPACE**
 - Restart - **R**
+- Exit - **Esc**
 
 ### Player1
 - Moving **UP** - **W** or **A**
