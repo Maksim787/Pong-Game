@@ -12,9 +12,9 @@ To start game press **SPACE**
 - Exit - **Esc**
 
 ### Player1
-- Moving **UP** - **W** or **A**
-- Moving **DOWN** - **S** or **D**
+- Moving UP - **W** or **A**
+- Moving DOWN - **S** or **D**
 
 ### Player2
-- Moving **UP** - **I** or **L**
-- Moving **DOWN** - **K** or **J**
+- Moving UP - **I** or **L**
+- Moving DOWN - **K** or **J**
