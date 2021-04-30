@@ -1,5 +1,7 @@
 # Pong-Game
 
+![alt text](https://github.com/Maksim787/Pong-Game/blob/main/Example/Screenshot.png)
+
 ## Installation
 - Download Release Folder
 - Open Pong.exe
